@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="killo.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pico talk0000" x="0" y="0" width="539" height="463" frameX="0" frameY="-1" frameWidth="539" frameHeight="464"/>
+	<SubTexture name="pico talk0001" x="0" y="463" width="539" height="463" frameX="0" frameY="-1" frameWidth="539" frameHeight="464"/>
+	<SubTexture name="pico talk0002" x="0" y="926" width="535" height="464" frameX="-2" frameY="0" frameWidth="539" frameHeight="464"/>
+	<SubTexture name="pico talk0003" x="535" y="926" width="535" height="464" frameX="-2" frameY="0" frameWidth="539" frameHeight="464"/>
+	<SubTexture name="pico talk0004" x="539" y="459" width="529" height="463" frameX="-5" frameY="-1" frameWidth="539" frameHeight="464"/>
+	<SubTexture name="pico talk0005" x="1068" y="459" width="529" height="463" frameX="-5" frameY="-1" frameWidth="539" frameHeight="464"/>
+	<SubTexture name="pico talk idle0000" x="539" y="0" width="539" height="459"/>
+</TextureAtlas>

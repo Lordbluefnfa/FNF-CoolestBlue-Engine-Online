@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf talk0000" x="0" y="0" width="431" height="447" frameX="0" frameY="0" frameWidth="431" frameHeight="448"/>
+	<SubTexture name="bf talk0001" x="0" y="0" width="431" height="447" frameX="0" frameY="0" frameWidth="431" frameHeight="448"/>
+	<SubTexture name="bf talk0002" x="431" y="0" width="428" height="446" frameX="-1" frameY="-2" frameWidth="431" frameHeight="448"/>
+	<SubTexture name="bf talk0003" x="431" y="0" width="428" height="446" frameX="-1" frameY="-2" frameWidth="431" frameHeight="448"/>
+	<SubTexture name="bf talk0004" x="431" y="446" width="428" height="446" frameX="-1" frameY="-2" frameWidth="431" frameHeight="448"/>
+	<SubTexture name="bf talk idle0000" x="0" y="447" width="431" height="445"/>
+</TextureAtlas>
