@@ -1,11 +1,11 @@
 {
 	"position": [
-		-110,
-		50
+		60,
+		60
 	],
-	"dialogue_pos": "right",
+	"dialogue_pos": "left",
 	"scale": 1.15,
-	"image": "bf",
+	"image": "killo",
 	"animations": [
 		{
 			"idle_offsets": [
@@ -13,12 +13,12 @@
 				-12
 			],
 			"loop_offsets": [
-				-1,
-				-11
+				-2,
+				-9
 			],
 			"anim": "talk",
-			"idle_name": "bf talk idle",
-			"loop_name": "bf talk"
+			"idle_name": "pico talk idle",
+			"loop_name": "pico talk"
 		},
 		{
 			"idle_offsets": [
