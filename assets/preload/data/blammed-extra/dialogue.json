@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "killo",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "QUAL FOI ELETRONICSTAR DE MERDA"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "killo",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Vou fazer voce andar pelo inferno!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bip bip"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "killo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Eu Curto rock seu merdinha, chegou a hora da minha vez"
+		}
+	]
+}

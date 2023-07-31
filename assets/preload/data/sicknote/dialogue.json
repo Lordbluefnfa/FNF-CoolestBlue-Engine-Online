@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "killo",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "parece que te peguei no flagra..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boop?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "killo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Desculpa pelo seu momento no bar Boyfriend e que fui contratado para te executar"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep bop skip..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "killo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Essas palavras mexem comigo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep boop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "killo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "OOW... Desculpa.. Nao sabiam que voces iriam fazer vucu vucu"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "killo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Mas meu tempo ja passou e quero te testar"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "killo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Parece que voce tem um microfone... porque nao cantar"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep >:)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "killo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nao quero parecer antecipado mas dps disso irei te matar"
+		}
+	]
+}
