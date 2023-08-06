@@ -1,7 +1,34 @@
 {
 	"songs": [
 		[
-			"SickNote",
+			"Brother",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"sily",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"You Can't Date",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Spirit Dad",
 			"dad",
 			[
 				146,
@@ -12,14 +39,14 @@
 	],
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
-	"weekBackground": "philly",
+	"weekBackground": "stage",
 	"difficulties": "normal, easy",
 	"weekCharacters": [
-		"Pico",
+		"Dad",
 		"bf",
 		"gf"
 	],
-	"storyName": "Killo hitman",
+	"storyName": "Irmao da Sara and Cristyna",
 	"weekName": "Custom Week",
 	"freeplayColor": [
 		146,
