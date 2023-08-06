@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cristyna_assets_HOT.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CristynaIdleBeat0000" x="0" y="0" width="526" height="454"/>
+</TextureAtlas>
